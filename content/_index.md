@@ -27,7 +27,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I am currently a Research Associate at University of Waterloo. My research interests include pilot performance, flight safety, and cognitive modelling.
+        I am currently a Research Associate at University of Waterloo. My research interests include pilot performance, flight safety, and cognitive modelling.\n
         I will enroll in the Daniel Guggenheim School of Aerospace Engineering at the Georgia Institute of Technology in August 2024 to pursue a PhD in robotics under the supervision of Dr. Karen Feigh. 
     design:
       columns: '1'
