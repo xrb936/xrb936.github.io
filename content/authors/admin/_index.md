@@ -1,20 +1,22 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Rongbing "Robin" Xu (徐熔兵)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Associate of Human Factors in Aviation
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Waterloo Institute for Sustainable Aeronautics (University of Waterloo)
+  url: "https://uwaterloo.ca/sustainable-aeronautics/"
+- name: Human Optimization Modelling Lab (University of Waterloo)
+  url: "https://uwaterloo.ca/human-optimization-modelling-lab/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include pilot performance, flight safety, and cognitive modelling.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -24,15 +26,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/xrb936
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=XVSSq8oAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/xrb936
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv

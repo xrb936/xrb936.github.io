@@ -16,7 +16,7 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: background.jpg
           filters:
             brightness: 0.5
           size: cover
@@ -27,9 +27,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        I am currently a Research Associate at University of Waterloo. My research interests include pilot performance, flight safety, and cognitive modelling.
     design:
       columns: '1'
   - block: collection
