@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rongbing "Robin" Xu (徐熔兵)
+title: Rongbing \"Robin\" Xu (徐熔兵)
 
 # Is this the primary user of the site?
 superuser: true
