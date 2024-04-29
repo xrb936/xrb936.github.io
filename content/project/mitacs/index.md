@@ -2,7 +2,8 @@
 title: Operator Space Situation Awareness in Space Object Tracking Tasks
 summary: A study uses cognitive engineering to enhance space situation awareness by analyzing SSA operators' knowledge amid growing satellite and debris challenges.
 tags:
-- Space Situation Awareness, Cognitive Engineering
+- Space Situation Awareness
+- Cognitive Engineering
 date: "2024-04-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

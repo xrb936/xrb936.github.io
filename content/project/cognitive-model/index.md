@@ -2,7 +2,8 @@
 title: Modeling Pilot Flight Performance on Pre-flight and Take-off Tasks with A Cognitive Architecture
 summary: A pilot model using QN-ACTR cognitive architecture simulates pre-flight and take-off tasks, matching human pilot performance.
 tags:
-- Cognitive Modelling, Pilot Performance
+- Cognitive Modelling
+- Pilot Performance
 date: "2024-04-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

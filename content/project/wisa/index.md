@@ -2,7 +2,9 @@
 title: Data Platform and Information Technologies Transforming General Aviation Pilot Training
 summary: A project aims to develop a data platform to collect diverse pilot performance data, supporting the transformation of ab initio pilot training into a more objective, data-driven competency-based model.
 tags:
-- Data-Driven Training, Performance Assessment, Data Management
+- Data-Driven Training
+- Performance Assessment
+- Data Management
 date: "2024-04-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
