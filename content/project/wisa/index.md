@@ -11,7 +11,7 @@ date: "2024-04-28T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Rongbing Xu (徐熔兵)
+  caption: Presentated by Rongbing Xu (徐熔兵)
   focal_point: Smart
 
 links:
