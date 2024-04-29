@@ -24,7 +24,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title: 'Hello 你好 👋'
       subtitle: ''
       text: |-
         I am currently a Research Associate at University of Waterloo. My research interests include pilot performance, flight safety, and cognitive modelling.\
