@@ -7,7 +7,7 @@ tags:
 date: "2024-04-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.mitacs.ca/our-projects/operator-space-situation-awareness-in-space-object-tracking-tasks/"
 
 image:
   caption: Photo by European Space Agency
