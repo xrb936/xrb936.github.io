@@ -14,13 +14,13 @@ sections:
       email: rongbing.xu@uwaterloo.ca
       phone: +1 (519)505-6346
       # appointment_url: 'https://calendly.com'
-      # address:
-      #   street: 450 Serra Mall
-      #   city: Stanford
-      #   region: CA
-      #   postcode: '94305'
-      #   country: United States
-      #   country_code: US
+      address:
+        street: 295 Phillip St
+        city: Waterloo
+        region: Ontario
+        postcode: 'N2L 3W6'
+        country: Canada
+        country_code: CA
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
