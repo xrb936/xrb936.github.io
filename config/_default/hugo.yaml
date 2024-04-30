@@ -4,7 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rongbing Xu (徐熔兵) # Website name
-baseURL: 'https://rongbingxu.com/' # Website URL
 
 ############################
 ## LANGUAGE
