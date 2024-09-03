@@ -27,7 +27,9 @@ sections:
       title: 'Hello 你好 👋'
       subtitle: ''
       text: |-
-        I am now pursuing a Ph.D. in Systems Design Engineering with a specialization in Aeronautics at the University of Waterloo. My research is being supervised by Dr. Shi Cao, whose profile may be seen [here](https://uwaterloo.ca/systems-design-engineering/profile/s34cao). My areas of research focus on pilot performance, flying safety, and cognitive modelling.
+        Rongbing Xu is a research associate in Systems Design Engineering with a focus on aeronautics, currently pursuing a Ph.D. at the University of Waterloo. Under the mentorship of [Dr. Shi Cao](https://uwaterloo.ca/systems-design-engineering/profile/s34cao), Xu's research centers on computational cognitive modeling, particularly in the area of pilot performance during pre-flight and take-off procedures. He has a strong academic background, holding both a Master's degree in Systems Design Engineering from the University of Waterloo and a Bachelor's degree in Computer Science with a minor in Mathematics from the University of New Mexico.
+
+        Xu has contributed to several notable publications in prestigious journals and conferences, including the Journal of Aviation/Aerospace Education & Research. His professional experience includes roles as a Graduate Teaching Assistant, where he has supported various engineering and computer science courses. Xu's work has been recognized through awards such as the Engineering Excellence Master’s Fellowship and the International Amigo Scholarship. His research interests and experience position him as a promising scholar in the field of Systems Design Engineering, with a keen focus on advancing human-machine systems in aeronautics.
     design:
       columns: '1'
   # - block: collection
