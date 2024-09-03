@@ -27,7 +27,7 @@ sections:
       title: 'Hello 你好 👋'
       subtitle: ''
       text: |-
-        I am currently a Ph.D Student in Systems Design Engineering (Aeronautics) at University of Waterloo, supervised by [Dr. Shi Cao](https://uwaterloo.ca/systems-design-engineering/profile/s34cao). My research interests include pilot performance, flight safety, and cognitive modelling.
+        I am now pursuing a Ph.D. in Systems Design Engineering with a specialization in Aeronautics at the University of Waterloo. My research is being supervised by Dr. Shi Cao, whose profile may be seen [here](https://uwaterloo.ca/systems-design-engineering/profile/s34cao). My areas of research focus on pilot performance, flying safety, and cognitive modelling.
     design:
       columns: '1'
   # - block: collection
