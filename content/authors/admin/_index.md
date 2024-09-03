@@ -6,7 +6,7 @@ title: Rongbing Xu (徐熔兵)
 superuser: true
 
 # Role/position
-role: Research Associate of Human Factors in Aviation
+role: Ph.D Student in Systems Design Engineering (Aeronautics)
 
 # Organizations/Affiliations
 organizations:
