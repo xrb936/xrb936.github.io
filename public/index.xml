@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>A comprehensive data collection and processing protocol for general aviation pilot performance assessment and behaviour research</title>
+      <link>http://localhost:1313/publication/xu-comprehensive-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xu-comprehensive-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Platform and Information Technologies Transforming General Aviation Pilot Training</title>
       <link>http://localhost:1313/projects/wisa/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
@@ -40,10 +48,26 @@
     </item>
     
     <item>
+      <title>Computational Cognitive Modeling of Pilot Performance in Pre-Flight and Take-Off Procedures.</title>
+      <link>http://localhost:1313/publication/xu-computational-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xu-computational-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Experience</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Pilot Flight Performance on Pre-flight and Take-off Tasks with A Cognitive Architecture</title>
+      <link>http://localhost:1313/publication/xu-modeling-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xu-modeling-2022/</guid>
       <description></description>
     </item>
     
@@ -75,6 +99,14 @@
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Modeling pilot flight performance in a cognitive architecture: Model demonstration</title>
+      <link>http://localhost:1313/publication/xu-modeling-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xu-modeling-2021/</guid>
+      <description></description>
     </item>
     
   </channel>

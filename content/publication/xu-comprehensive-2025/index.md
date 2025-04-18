@@ -12,5 +12,5 @@ authors:
 date: '2025-01-01'
 publishDate: '2025-04-18T18:11:17.781576Z'
 publication_types:
-- report
+- Technical Report
 ---
