@@ -5,31 +5,53 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: 
+      text:
     design:
+      css_class: dark
       background:
         color: black
-        text_color_light: true
         image:
           # Add your image background to `assets/media/`.
           filename: background.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.4
           size: cover
           position: center
           parallax: false
+  - block: stats
+    content:
+      items:
+        - statistic: "4"
+          description: |
+            Publications
+        - statistic: "11"
+          description: |
+            Citations
+        - statistic: "2"
+          description: |
+            h-index
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: markdown
     content:
       title: 'Hello 你好 👋'
       subtitle: ''
       text: |-
-        Rongbing Xu is a research associate in Systems Design Engineering with a focus on aeronautics, currently pursuing a Ph.D. at the University of Waterloo. Under the mentorship of [Dr. Shi Cao](https://uwaterloo.ca/systems-design-engineering/profile/s34cao), Xu's research centers on computational cognitive modeling, particularly in the area of pilot performance during pre-flight and take-off procedures. He has a strong academic background, holding both a Master's degree in Systems Design Engineering from the University of Waterloo and a Bachelor's degree in Computer Science with a minor in Mathematics from the University of New Mexico.
+        Rongbing Xu is a Ph.D. student in Systems Design Engineering at the University of Waterloo, specializing in aeronautics, cognitive modeling, and human factors. Under the supervision of [Dr. Shi Cao](https://uwaterloo.ca/systems-design-engineering/profile/s34cao) and [Dr. Michael Barnett-Cowan](https://uwaterloo.ca/kinesiology-health-sciences/profiles/michael-barnett-cowan), his research focuses on enhancing pilot training and performance evaluation through computational cognitive modeling and machine learning, using real-world flight and physiological data.
 
-        Xu has contributed to several notable publications in prestigious journals and conferences, including the Journal of Aviation/Aerospace Education & Research. His professional experience includes roles as a Graduate Teaching Assistant, where he has supported various engineering and computer science courses. Xu's work has been recognized through awards such as the Engineering Excellence Master’s Fellowship and the International Amigo Scholarship. His research interests and experience position him as a promising scholar in the field of Systems Design Engineering, with a keen focus on advancing human-machine systems in aeronautics.
+        He earned his MASc in Systems Design Engineering from the University of Waterloo, where he developed a cognitive architecture-based model for simulating pilot behavior during pre-flight and take-off tasks. He also holds a B.Sc. in Computer Science with a minor in Mathematics from the University of New Mexico.
+
+        Xu has published peer-reviewed work in journals such as Journal of Aviation/Aerospace Education & Research and has presented at international conferences including the Human Factors and Ergonomics Society Annual Meeting and the International Symposium on Aviation Psychology. His recent projects involve consumer-grade EEG and wearable technology for real-time stress detection in general aviation pilots.
+
+        In addition to his research, Xu serves as a Teaching Assistant in systems design engineering courses and contributes actively to the professional community as the Director of Communications for the University of Waterloo’s Human Factors and Ergonomics Society Student Chapter. He is a reviewer for IEEE Transactions on Human-Machine Systems and HFES proceedings, and a member of IEEE and HFES.
     design:
       columns: '1'
   # - block: collection
@@ -56,6 +78,8 @@ sections:
   #     order: desc
   #   design:
   #     # Choose a layout view
-  #     view: compact
-  #     columns: '1'
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
 ---

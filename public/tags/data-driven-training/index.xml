@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-Driven Training | Rongbing (Robin) Xu | 徐熔兵</title>
+    <link>http://localhost:1313/tags/data-driven-training/</link>
+      <atom:link href="http://localhost:1313/tags/data-driven-training/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data-Driven Training</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_cc95e5ade3e7f523.png</url>
+      <title>Data-Driven Training</title>
+      <link>http://localhost:1313/tags/data-driven-training/</link>
+    </image>
+    
+    <item>
+      <title>Data Platform and Information Technologies Transforming General Aviation Pilot Training</title>
+      <link>http://localhost:1313/projects/wisa/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/wisa/</guid>
+      <description>&lt;p&gt;For decades, ab initio pilot training has been following flight-hour-based models and relying on instructor subjective assessment. This industry faces sustainability challenges as it needs to train pilots more efficiently and use more objective measures of competency to improve quality and reduce bias. This project will create a data platform for collecting pilot performance data. It will support multiple data sources (simulator, e-plane, traditional aircraft) and combine multiple measures (flight performance, instructor assessment, biomarkers, eye tracking). We will collect 200 hours of flight data as a start for the database, which will be essential to support the development of algorithms and technologies transforming ab initio pilot training. The platform will provide data management and data integration with other related WISA projects. The database will become an important WISA asset enabling researchers and companies to train their artificial intelligence algorithms for objective pilot assessment and build data-driven competency-based training.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
